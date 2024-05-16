@@ -145,6 +145,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 ![19e23cd9-fd6e-4871-baa6-2045fc31751e](https://github.com/swethasurendar/cover/assets/133625914/132e2954-6023-4e5f-b72d-a704a058e001)
+![image](https://github.com/swethasurendar/cover/assets/133625914/bf3e5233-64f1-4415-a909-f6ca5fc4f27f)
+
 
 
 
